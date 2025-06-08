@@ -142,3 +142,4 @@ C:\Users\01\Desktop\Practica4\EcommerceIA\obj\Debug\net8.0\refint\EcommerceIA.dl
 C:\Users\01\Desktop\Practica4\EcommerceIA\obj\Debug\net8.0\EcommerceIA.pdb
 C:\Users\01\Desktop\Practica4\EcommerceIA\obj\Debug\net8.0\EcommerceIA.genruntimeconfig.cache
 C:\Users\01\Desktop\Practica4\EcommerceIA\obj\Debug\net8.0\ref\EcommerceIA.dll
+C:\Users\01\Desktop\Practica4\EcommerceIA\obj\Debug\net8.0\EcommerceIA.sourcelink.json
